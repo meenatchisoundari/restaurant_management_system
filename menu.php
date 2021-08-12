@@ -84,7 +84,7 @@ PLACE YOUR ORDER
 
 <div class="topnav">
   <div class="topnav-left">
-    <a href="INDEX.php"><i>BACK</i></a>
+    <a href="index.php"><i>BACK</i></a>
   </div>
 </div>
     <div>
