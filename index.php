@@ -11,7 +11,7 @@
     height: 100px; 
 }
 body {
-  background-image: url('images/f11.jpg');
+  background-image: url('f11.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
