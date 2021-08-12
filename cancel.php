@@ -84,7 +84,7 @@ width: 15%;
         <div class="col-sm-12">
         <center>
         <div class="div-acc">
-	<form action="CANCEL.php" onsubmit="return validate()" method="post" name="cancel">
+	<form action="cancel.php" onsubmit="return validate()" method="post" name="cancel">
 		<b><i>USERNAME</i>&ensp;&ensp;&ensp;&ensp; &ensp;:&ensp;<input type="text" id="user_name" size="30" maxlength="30" name="user_name" placeholder="UserName"/><br>
 		<br><br>
 	
@@ -109,7 +109,7 @@ width: 15%;
 	<input type="Submit" value="Submit" name="submit" id="submit" class="button">
 	</form></div></div</div>
 <div style="text-align:center">    
-  <br><a href="PLACE_ORDER.php">BACK</a>
+  <br><a href="place_order.php">BACK</a>
 </div>
 </body>
 </html>
