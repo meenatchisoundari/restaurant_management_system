@@ -7,7 +7,7 @@ session_start();
 <head>
 <style>
 body {
-  background-image: url('images/f19.jpg');
+  background-image: url('f19.jpg');
   background-repeat: no-4epeat;
   background-attachment: fixed;
   background-size: cover;
@@ -84,18 +84,18 @@ PLACE YOUR ORDER
 
 <div class="topnav">
   <div class="topnav-left">
-    <a href="INDEX.php"><i>BACK</i></a>
+    <a href="index.php"><i>BACK</i></a>
   </div>
   <div class="topnav-right">
     <a href="ORDER_DISH.php"><i>PLACE ORDER</i></a>
     <a href="index.php"><i>LOGOUT</i></a>
   </div>
  <div class="topnav-right">
-    <a href="UPDATE.php"><i>UPDATE ORDER</i></a>
+    <a href="update.php"><i>UPDATE ORDER</i></a>
     
   </div>
 <div class="topnav-right">
-    <a href="CANCEL.php"><i>CANCEL ORDER</i></a>
+    <a href="cancel.php"><i>CANCEL ORDER</i></a>
    
   </div>
 </div>
@@ -155,7 +155,7 @@ PLACE YOUR ORDER
 
 
 <div style="text-align:center">    
-  <br><a id="ri" href="INDEX.php">Back</a>
+  <br><a id="ri" href="index.php">Back</a>
 </div>
 
 
