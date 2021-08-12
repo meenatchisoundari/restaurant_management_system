@@ -7,7 +7,7 @@ $err1="";
 <head>
 <style>
 body {
-  background-image: url('images/f19.jpg');
+  background-image: url('f19.jpg');
   background-repeat: no-4epeat;
   background-attachment: fixed;
   background-size: cover;
@@ -61,7 +61,7 @@ PLACE ORDER
 <center>
 <div class="div-reg">
 <h1 style="color:white"><i>PICK YOUR DISH</i></h1>
-<form action="ORDER_DISH.php" method="POST" style="color:white">
+<form action="order_dish.php" method="POST" style="color:white">
    <p><b><i>USER_NAME</i></b>          : <input type="text"  name="user_name" required placeholder="USER_NAME"><br></p>
    <label for="food"><b><i>FOOD</i></b> &emsp;&emsp;&emsp; &emsp; &nbsp;:</label>
 
@@ -91,7 +91,7 @@ PLACE ORDER
 </div>
 
 <div style="text-align:center">    
-  <br><a href="PLACE_ORDER.php">BACK</a>
+  <br><a href="place_order.php">BACK</a>
 </div>
 
 
