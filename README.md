@@ -1,8 +1,7 @@
-# restaurant_management_system
 
 Create database and create 2 tables in the database
-Table 1 : To store data of registered users.
-Table 2 : To store the order details.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 CREATE DATABASE restaurant_db;
