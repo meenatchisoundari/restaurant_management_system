@@ -83,11 +83,11 @@ LOGIN
 <div class="topnav">
   <div class="topnav-right">
     
-    <a href="SEE_ORDERS.php"><i>FOR_STAFF_USE </i></a>
+    <a href="see_orders.php"><i>FOR_STAFF_USE </i></a>
   </div>
   <div class="topnav-right">
     
-    <a href="MENU.php"><i>MENU</i></a>
+    <a href="menu.php"><i>MENU</i></a>
   </div>
 </div>
 <div class="k">
