@@ -7,7 +7,7 @@ $err1="";
 <head>
 <style>
 body {
-  background-image: url('images/f19.jpg');
+  background-image: url('f19.jpg');
   background-repeat: no-4epeat;
   background-attachment: fixed;
   background-size: cover;
@@ -95,7 +95,7 @@ REGISTRATION
 </div>
 <center>
 <div style="text-align:center">    
-  <br><a href="INDEX.php">BACK</a>
+  <br><a href="index.php">BACK</a>
 </div>
 
 </center>
