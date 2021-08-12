@@ -50,7 +50,7 @@ width: 20%;
   border-radius: 4px;
 }
 body{
-  background-image: url('images/f2.jpg');
+  background-image: url('f2.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -94,7 +94,7 @@ width: 15%;
 	<input type="Submit" value="LOGIN" name="submit" id="submit" class="button">
 	</form></div></div</div>
 <div style="text-align:center">    
-  <br><a href="INDEX.php">BACK</a>
+  <br><a href="index.php">BACK</a>
 </div>
 </body>
 </html>
