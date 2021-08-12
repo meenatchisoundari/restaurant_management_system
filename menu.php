@@ -7,7 +7,7 @@ session_start();
 <head>
 <style>
 body {
-  background-image: url('images/f19.jpg');
+  background-image: url('f19.jpg');
   background-repeat: no-4epeat;
   background-attachment: fixed;
   background-size: cover;
@@ -143,7 +143,7 @@ PLACE YOUR ORDER
 
 
 <div style="text-align:center">    
-  <br><a id="ri" href="INDEX.php">Back</a>
+  <br><a id="ri" href="index.php">Back</a>
 </div>
 
 
