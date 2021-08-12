@@ -75,7 +75,7 @@ font-size: 20px;
 </style>
 <meta charset="UTF-8">
 <title>
-LOGIN
+HOME
 </title>
 <link rel="stylesheet" type="text/css" href="bstyle.css">
 </head>
