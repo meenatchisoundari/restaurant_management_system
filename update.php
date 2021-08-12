@@ -12,7 +12,7 @@
 <style>
 
 body {
-  background-image: url('images/f11.jpg');
+  background-image: url('f11.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -124,7 +124,7 @@ else
 <div  class="row" style="text-align:center">
 <div class="col-sm-12">
 <div class="div2">    
-<a href="PLACE_ORDER.php">Back</a>
+<a href="place_order.php">Back</a>
 </div>
 </div>
 </div>
