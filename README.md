@@ -1,7 +1,7 @@
 
 <a href="https://mee-restaurant.herokuapp.com/">Preview webiste</a>
 
-Create database and create 2 tables in the database
+Create database and create 2 tables in the database in phpMyAdmin
 ------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 CREATE DATABASE restaurant_db;
