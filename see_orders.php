@@ -7,7 +7,7 @@ $err1="";
 <head>
 <style>
 body {
- background-image: url('images/f21.jpg');
+ background-image: url('f21.jpg');
   background-repeat: no-4epeat;
   background-attachment: fixed;
   background-size: cover;
@@ -96,7 +96,7 @@ $connec->close();
 </div>
 </div>
 <div style="text-align:center">    
-  <br><a href="INDEX.php">BACK</a>
+  <br><a href="index.php">BACK</a>
 </div>
 
 
